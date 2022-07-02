@@ -1,0 +1,16 @@
+C:\Users\zelen\Desktop\MatModel6\MatModel6\bin\Debug\MatModel6.exe.config
+C:\Users\zelen\Desktop\MatModel6\MatModel6\bin\Debug\MatModel6.exe
+C:\Users\zelen\Desktop\MatModel6\MatModel6\bin\Debug\MatModel6.pdb
+C:\Users\zelen\Desktop\MatModel6\MatModel6\obj\Debug\MatModel6.csproj.AssemblyReference.cache
+C:\Users\zelen\Desktop\MatModel6\MatModel6\obj\Debug\MatModel6.csproj.SuggestedBindingRedirects.cache
+C:\Users\zelen\Desktop\MatModel6\MatModel6\obj\Debug\MatModel6.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Desktop\MatModel6\MatModel6\obj\Debug\MatModel6.exe
+C:\Users\zelen\Desktop\MatModel6\MatModel6\obj\Debug\MatModel6.pdb
+C:\Users\zelen\Desktop\Программирование\MatModel6\MatModel6\bin\Debug\MatModel6.exe.config
+C:\Users\zelen\Desktop\Программирование\MatModel6\MatModel6\bin\Debug\MatModel6.exe
+C:\Users\zelen\Desktop\Программирование\MatModel6\MatModel6\bin\Debug\MatModel6.pdb
+C:\Users\zelen\Desktop\Программирование\MatModel6\MatModel6\obj\Debug\MatModel6.csproj.AssemblyReference.cache
+C:\Users\zelen\Desktop\Программирование\MatModel6\MatModel6\obj\Debug\MatModel6.csproj.SuggestedBindingRedirects.cache
+C:\Users\zelen\Desktop\Программирование\MatModel6\MatModel6\obj\Debug\MatModel6.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Desktop\Программирование\MatModel6\MatModel6\obj\Debug\MatModel6.exe
+C:\Users\zelen\Desktop\Программирование\MatModel6\MatModel6\obj\Debug\MatModel6.pdb
